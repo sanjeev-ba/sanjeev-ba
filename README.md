@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 😄
 
-<!--
-**sanjeev-ba/sanjeev-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sanjeev and I'm a software developer.
 
-Here are some ideas to get you started:
+👨‍💻 I've created a few apps. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   * [Ambient Weather](https://sanbal.github.io/ambient-weather/), a webapp to display the weather in an ambient way.
+
+   * Or to have just fun: [Memory](https://sanbal.github.io/memory-app/).
+
+Feel free to try them out 🙂.
+
+📧 If you have any questions please contact me at sbalakrishnan24@gmail.com.
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeev-ba alt=sanbal> </p>
