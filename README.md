@@ -10,6 +10,6 @@ My name is Sanjeev and I'm a software developer.
 
 Feel free to try them out 🙂.
 
-📧 If you have any questions, please contact me at sbalakrishnan24@gmail.com.
+📧 If you have any questions, please [contact me](https://sanjeev-ba.github.io/contact-page/).
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeev-ba alt=sanbal> </p>
